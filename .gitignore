@@ -1,0 +1,7 @@
+logs*/
+*.pdf
+fnirsi-*/
+data/
+*.csv
+*.npy
+__pycache__/
